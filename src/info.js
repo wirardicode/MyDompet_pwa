@@ -1,4 +1,4 @@
-const token = 'Z3T4WA1FUKU' // Token 
+const token = 'TOKEN_DISINI' // Token 
         function thisTunai() {
             const apiUrl = 'http://127.0.0.1:8000/geting-total'
 
