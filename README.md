@@ -11,6 +11,14 @@
 PWA dipilih karena ringan, mudah digunakan, dan mendukung cross-platform sehingga memberikan pengalaman pengguna yang optimal.
 
 ---
+## Informasi
+- creator: `WiraCode04`
+- Model: `Vestia Zeta`
+- App Ver: `1.0.0`
+- Token: `Z3T4WA1FUKU`
+- Create: `2025/16/07`
+- Post: `2025/18/07`
+- Update: -
 
 ## Instalasi
 
@@ -52,6 +60,3 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini di lingkungan penge
 9. Unduh aplikasi pada tab browser ->sebelah bookmark(gambar bintang)
     
    ![download](donwload.png)
-
-## Token
-token: `Z3T4WA1FUKU`
