@@ -46,7 +46,7 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini di lingkungan penge
 🌍 Hosting frontend ke server atau layanan hosting pilihan
 
 8. Import mysql dengan file `mydompet.sql` pada directory `Backend`
-9. Unduh aplikasi pada tab browser
+9. Unduh aplikasi pada tab browser ->sebelah bookmark(gambar bintang)
     
    ![download](donwload.png)
 
