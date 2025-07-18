@@ -17,11 +17,14 @@ PWA dipilih karena ringan, mudah digunakan, dan mendukung cross-platform sehingg
 Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini di lingkungan pengembangan lokal:
 
 1. Clone repositori ini atau download dalam bentuk ZIP/RAR dan ekstrak.
-2. Masuk ke folder `Backend`.
-3. Buat virtual environment:
+   ```bash
+   git clone https://github.com/wirardicode/MyDompet_pwa.git -b main --single-branch
+   
+3. Masuk ke folder `Backend`.
+4. Buat virtual environment:
    ```bash
    python -m venv <ENV_NAME>
-4. Aktivasi Environtmen
+5. Aktivasi Environtmen
 - Windows GNU (Shell/bash)
      ```bash
      source <ENV_NAME>/Scripts/activate
