@@ -30,18 +30,24 @@
         </table>
         <span class="text-gray-600 text-sm">Status:</span>
         <p id="status" class="text-blue-600 font-semibold">Memuat data...</p>
+        <button onclick="window.location.href='chart.html'"
+            class="mt-4 w-10 h-10 rounded-full bg-blue-600 text-white text-xl font-bold flex items-center justify-center shadow-md hover:bg-blue-700 transition-all duration-200"
+            title="Lihat Grafik">
+           A+
+        </button>
+
     </div>
     <!-- Update Debit -->
     <div id="debitUang" class="bg-white p-6 rounded-xl shadow-md w-full max-w-md">
-    <table class="w-full text-sm text-left mb-2">
-        <tr>
-            <th class="text-gray-700 font-medium w-1/2">Pembaruan Debit</th>
-            <td id="totalDebit" class="text-gray-800">: <q>Loading...</q></td>
-        </tr>
-    </table>
-    <span class="text-gray-600 text-sm">Status:</span>
-    <p id="statusDebit" class="text-blue-600 font-semibold">Memuat data...</p>
-</div>
+        <table class="w-full text-sm text-left mb-2">
+            <tr>
+                <th class="text-gray-700 font-medium w-1/2">Pembaruan Debit</th>
+                <td id="totalDebit" class="text-gray-800">: <q>Loading...</q></td>
+            </tr>
+        </table>
+        <span class="text-gray-600 text-sm">Status:</span>
+        <p id="statusDebit" class="text-blue-600 font-semibold">Memuat data...</p>
+    </div>
 
     <script src="/src/info.js"></script>
 
