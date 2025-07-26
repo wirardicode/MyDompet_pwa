@@ -14,11 +14,11 @@ PWA dipilih karena ringan, mudah digunakan, dan mendukung cross-platform sehingg
 ## Informasi
 - creator: `WiraCode04`
 - Model: `Vestia Zeta`
-- App Ver: `1.0.0`
+- App Ver: `2.1.0`
 - Token: `Z3T4WA1FUKU`
 - Create: `2025/16/07`
 - Post: `2025/18/07`
-- Update: -
+- Update: Fitur statistik
 
 ## Instalasi
 
