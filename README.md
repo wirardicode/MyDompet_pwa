@@ -19,8 +19,10 @@ PWA dipilih karena ringan, mudah digunakan, dan mendukung cross-platform sehingg
 - Create: `2025/07/18`
 - Post: `2025/07/18`
 - Update: `2025/07/26`
-- fitur baru: informasi statistik tunai
-
+- fitur baru: 1. informasi statistik tunai,
+              2. unduh informasi statistik format CSV,
+              3. unduh gambar statistik.
+  
 ## Instalasi
 
 Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini di lingkungan pengembangan lokal:
