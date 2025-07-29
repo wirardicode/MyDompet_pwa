@@ -6,6 +6,7 @@ def conn():
         user="root",
         password="",
         database="mydompet"
+        #port=""
     )
     return database
 
