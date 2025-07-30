@@ -16,13 +16,7 @@ PWA dipilih karena ringan, mudah digunakan, dan mendukung cross-platform sehingg
 - Model: `Vestia Zeta`
 - App Ver: `2.1.0`
 - Token: `Z3T4WA1FUKU`
-- Create: `2025/07/18`
-- Post: `2025/07/18`
-- Update: `2025/07/26`
-- fitur baru: 1. informasi statistik tunai,
-              2. unduh informasi statistik format CSV,
-              3. unduh gambar statistik.
-  
+
 ## Instalasi
 
 Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini di lingkungan pengembangan lokal:
