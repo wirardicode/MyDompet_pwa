@@ -104,7 +104,7 @@ function handleFetch(url, onSuccess, statusElementId) {
 }
 
 function thisTunai() {
-    handleFetch(' https://b2cc1eb253ef.ngrok-free.app/geting-total', data => {
+    handleFetch('http://127.0.0.1:8000/geting-total', data => {
         const [row] = data.data;
         const totalMasuk = row[0];
         const totalKeluar = row[1];
@@ -119,7 +119,7 @@ function thisTunai() {
 }
 
 function getDebit() {
-    handleFetch(' https://b2cc1eb253ef.ngrok-free.app/get-debit', data => {
+    handleFetch('http://127.0.0.1:8000/get-debit', data => {
         const formatIDR = n => (n || 0).toLocaleString('id-ID');
         document.getElementById('totalDebit').innerHTML = `: <q>${formatIDR(data.message)}</q>`;
         const status = document.getElementById('statusDebit');
