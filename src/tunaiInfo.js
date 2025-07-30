@@ -17,7 +17,7 @@ function formatRupiah(angka) {
 
     async function loadTransaksi() {
       try {
-        const response = await fetch('http://127.0.0.1:8000/tunai');
+        const response = await fetch(' https://b2cc1eb253ef.ngrok-free.app/tunai');
         const result = await response.json();
         const data = result.data || [];
 
