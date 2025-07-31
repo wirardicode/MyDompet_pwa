@@ -58,4 +58,4 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini di lingkungan penge
     
    ![download](donwload.png)
 
-10. Demo aplikasi bisa hubungi sosial media di bio git 
+10. Demo aplikasi bisa hubungi admin melalui sosial media yang tertera di git (kepentingan menghidupkan server API-gateway publik)
