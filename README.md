@@ -57,3 +57,5 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi ini di lingkungan penge
 9. Unduh aplikasi pada tab browser ->sebelah bookmark(gambar bintang)
     
    ![download](donwload.png)
+
+10. Demo aplikasi bisa hubungi sosial media di bio git 
